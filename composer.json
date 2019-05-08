@@ -1,0 +1,22 @@
+{
+  "name": "spryker-feature/quotation-process",
+  "description": "Quotation Process [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/agent-assist": "^201906.0",
+    "spryker-feature/company-account": "^201906.0",
+    "spryker-feature/customer-account-management": "^201906.0",
+    "spryker-feature/persistent-cart": "^201906.0",
+    "spryker-feature/prices": "^201906.0",
+    "spryker-feature/spryker-core": "^201906.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201906.x-dev"
+    }
+  }
+}

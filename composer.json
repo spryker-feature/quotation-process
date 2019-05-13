@@ -12,7 +12,14 @@
     "spryker-feature/customer-account-management": "^201906.0",
     "spryker-feature/persistent-cart": "^201906.0",
     "spryker-feature/prices": "^201906.0",
-    "spryker-feature/spryker-core": "^201906.0"
+    "spryker-feature/spryker-core": "^201906.0",
+    "spryker-shop/quote-request-agent-page": "^1.0.0",
+    "spryker-shop/quote-request-agent-widget": "^1.0.0",
+    "spryker-shop/quote-request-page": "^1.0.0",
+    "spryker-shop/quote-request-widget": "^1.0.0",
+    "spryker/quote-request": "^1.0.0",
+    "spryker/quote-request-agent": "^1.0.0",
+    "spryker/quote-request-data-import": "^0.1.0"
   },
   "extra": {
     "branch-alias": {

@@ -11,7 +11,7 @@
     "spryker-shop/quote-request-agent-widget": "^2.0.0",
     "spryker-shop/quote-request-page": "^2.0.0",
     "spryker-shop/quote-request-widget": "^2.0.0",
-    "spryker/quote-request": "^2.0.0",
+    "spryker/quote-request": "^2.1.0",
     "spryker/quote-request-agent": "^2.0.0",
     "spryker/quote-request-data-import": "^0.2.0"
   },

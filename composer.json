@@ -17,7 +17,15 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202001.x-dev"
+      "dev-master": "202006.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/agent-assist": "Recommended feature dependency.",
+    "spryker-feature/company-account": "Recommended feature dependency.",
+    "spryker-feature/customer-account-management": "Recommended feature dependency.",
+    "spryker-feature/persistent-cart": "Recommended feature dependency.",
+    "spryker-feature/prices": "Recommended feature dependency.",
+    "spryker-feature/spryker-core": "Recommended feature dependency."
   }
 }

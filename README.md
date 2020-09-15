@@ -10,9 +10,9 @@ composer require spryker-feature/quotation-process
 
 ## Recommended feature dependencies
 - [spryker-feature/agent-assist](https://github.com/spryker-feature/agent-assist)
+- [spryker-feature/cart](https://github.com/spryker-feature/cart)
 - [spryker-feature/company-account](https://github.com/spryker-feature/company-account)
 - [spryker-feature/customer-account-management](https://github.com/spryker-feature/customer-account-management)
-- [spryker-feature/persistent-cart](https://github.com/spryker-feature/persistent-cart)
 - [spryker-feature/prices](https://github.com/spryker-feature/prices)
 - [spryker-feature/spryker-core](https://github.com/spryker-feature/spryker-core)
 

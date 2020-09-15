@@ -22,9 +22,9 @@
   },
   "suggest": {
     "spryker-feature/agent-assist": "Recommended feature dependency.",
+    "spryker-feature/cart": "Recommended feature dependency.",
     "spryker-feature/company-account": "Recommended feature dependency.",
     "spryker-feature/customer-account-management": "Recommended feature dependency.",
-    "spryker-feature/persistent-cart": "Recommended feature dependency.",
     "spryker-feature/prices": "Recommended feature dependency.",
     "spryker-feature/spryker-core": "Recommended feature dependency."
   }

@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.3",
     "spryker-shop/quote-request-agent-page": "^3.0.0",
     "spryker-shop/quote-request-agent-widget": "^2.3.0",
     "spryker-shop/quote-request-page": "^3.1.0",
@@ -17,7 +17,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202009.x-dev"
+      "dev-master": "202107.x-dev"
     }
   },
   "suggest": {

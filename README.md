@@ -21,7 +21,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 ## Optional modules
 - [Shop.QuoteRequestAgentPageExtension ^1.0.0](https://github.com/spryker-shop/quote-request-agent-page-extension) (Extension)
 - [QuoteRequestAgentsRestApi ^0.2.0](https://github.com/spryker/quote-request-agents-rest-api) (Glue)
-- [QuoteRequestExtension ^1.1.0](https://github.com/spryker/quote-request-extension) (Extension)
+- [QuoteRequestExtension ^1.2.0](https://github.com/spryker/quote-request-extension) (Extension)
 - [Shop.QuoteRequestPageExtension ^1.0.0](https://github.com/spryker-shop/quote-request-page-extension) (Extension)
 - [QuoteRequestsRestApi ^0.1.0](https://github.com/spryker/quote-requests-rest-api) (Glue)
 - [QuoteRequestsRestApiExtension ^1.0.0](https://github.com/spryker/quote-requests-rest-api-extension) (Extension)

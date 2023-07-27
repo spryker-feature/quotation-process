@@ -2,6 +2,8 @@
 
 Request for Quote is an Yves functionality that allows an Agent to check quotes, have a list of them, create notification after a Request for Quote was created. In Request for Quote, Agent can change prices, add discount for a specific products or for the whole RfQ.
 
+[Learn more](https://docs.spryker.com/docs/scos/user/features/202108.0/quotation-process-feature-overview.html)
+
 ## Installation
 
 ```

@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.1",
         "spryker-shop/quote-request-agent-page": "^3.3.0",
         "spryker-shop/quote-request-agent-widget": "^2.6.0",
         "spryker-shop/quote-request-page": "^3.4.0",

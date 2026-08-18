@@ -25,6 +25,6 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [QuoteRequestAgentsRestApi ^0.4.3](https://github.com/spryker/quote-request-agents-rest-api) (Legacy Glue)
 - [QuoteRequestExtension ^1.2.0](https://github.com/spryker/quote-request-extension) (Extension)
 - [Shop.QuoteRequestPageExtension ^1.0.0](https://github.com/spryker-shop/quote-request-page-extension) (Extension)
-- [QuoteRequestsRestApi ^0.2.5](https://github.com/spryker/quote-requests-rest-api) (Legacy Glue)
+- [QuoteRequestsRestApi ^0.3.0](https://github.com/spryker/quote-requests-rest-api) (Legacy Glue)
 - [QuoteRequestsRestApiExtension ^1.0.0](https://github.com/spryker/quote-requests-rest-api-extension) (Extension)
 - [SalesQuoteRequestConnector ^1.1.0](https://github.com/spryker/sales-quote-request-connector) (Connector)

@@ -7,9 +7,9 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/quote-request-agent-page": "^3.7.0",
+        "spryker-shop/quote-request-agent-page": "^3.8.0",
         "spryker-shop/quote-request-agent-widget": "^2.7.0",
-        "spryker-shop/quote-request-page": "^3.8.0",
+        "spryker-shop/quote-request-page": "^3.9.0",
         "spryker-shop/quote-request-widget": "^2.6.0",
         "spryker/quote-request": "^2.8.0",
         "spryker/quote-request-agent": "^2.3.0",
@@ -17,7 +17,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202608.x-dev"
+            "dev-master": "202610.x-dev"
         }
     },
     "suggest": {
